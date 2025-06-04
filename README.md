@@ -1,16 +1,28 @@
-## Hi there 👋
+Olá! 👋 Eu sou Gabriel Lima
+Desenvolvedor | Buscando sempre o melhor desempenho | Resolvo problemas com código 💻
 
-<!--
-**perigooo/perigooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Sobre mim
+🔭 Atualmente estudando: Python | CSS | HTML | JavaScript
+👨‍💻 Focado em: automação de tarefas, desenvolvimento web e lógica de programação
+🎯 Em constante evolução: curioso por novas tecnologias e ferramentas
+⚡ Curiosidade: Gosto de desafios lógicos e de automatizar o que for possível
+🛠️ Tecnologias e Ferramentas
+     
 
-Here are some ideas to get you started:
+🚀 Projetos em Destaque
+🔧 Automatizador de Tarefas com Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Mini Portfólio Web
+
+Criado com HTML, CSS e JavaScript
+Responsivo e com foco em performance
+🧹 Validador de Dados em Arquivos
+
+Lê arquivos .txt e organiza informações de forma dinâmica
+📈 GitHub Stats
+ 
+
+📫 Contato
+✉️ Email: rafaelcoutinholima12345@gmail.com
+💼 LinkedIn: linkedin.com/in/rafael-coutinho-89a825357
+📱 WhatsApp: Clique aqui para conversar
