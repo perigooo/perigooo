@@ -12,17 +12,6 @@ Desenvolvedor | Buscando sempre o melhor desempenho | Resolvo problemas com cód
 🚀 Projetos em Destaque
 🔧 Automatizador de Tarefas com Python
 
-🌐 Mini Portfólio Web
-
-Criado com HTML, CSS e JavaScript
-Responsivo e com foco em performance
-🧹 Validador de Dados em Arquivos
-
-Lê arquivos .txt e organiza informações de forma dinâmica
-📈 GitHub Stats
- 
-
 📫 Contato
-✉️ Email: rafaelcoutinholima12345@gmail.com
-💼 LinkedIn: linkedin.com/in/rafael-coutinho-89a825357
-📱 WhatsApp: Clique aqui para conversar
+✉️ Email: gabrielpereira150606@gmail.com
+💼 LinkedIn: www.linkedin.com/in/gabriel-pl-
